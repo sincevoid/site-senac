@@ -1,15 +1,7 @@
 # Site previa para SENAC curso de Multimidia
 ## Tema de Calorimetria
 [Acessar](https://sincevoid.github.io/site-senac/)
-
-
-
-
-
-
-
-
-
+<br><br><br><br><br><br><br><br>
 # Codigo:
 
 <!DOCTYPE html>
